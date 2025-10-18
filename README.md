@@ -1,2 +1,19 @@
-# flappy_bird-game-prototype-taskA
-it is a prototype for flappy bird game it is not fully developed just a prototype to use in showcase. it is created using pyhon and pygame .it includes features like scoring system,pause&amp;restart,and persistent high score.
+# 🐤 Flappy Bird – Pygame Edition
+
+A fun, interactive version of the classic Flappy Bird game built using Python and Pygame.  
+Created as part of the SISTec Internship JD1 (Product Development Intern – Interactive App/Game Prototype).
+
+
+## 🎮 Features
+- Smooth gameplay with realistic gravity and flap physics  
+- Dynamic scoring and persistent high score system  
+- Pause, restart, and quit controls  
+- Sound effects for flapping, scoring, and collision  
+- Clean UI with start, pause, and game-over screens  
+
+
+## 🧠 Technologies Used
+- *Language:* Python  
+- *Library:* Pygame  
+- *IDE:* VS Code / PyCharm  
+- *Platform:* Cross-platform (Windows, macOS, Linux)
